@@ -14,17 +14,6 @@ El sistema tiene como objetivo modernizar la infraestructura tecnológica de la 
 
 ---
 
-## Instalación
-
-Para instalar y ejecutar el proyecto en un entorno local, sigue estos pasos:
-
-1. **Clonar el repositorio**:
-   ```bash
-   git clone https://github.com/Srtatton/HospiAventuras.git
-2. **Buscar el repositorio**:
-   ```bash
-   cd HospiAventuras
-
 ## Autores
 
 - **[Santiago Escobar]**
