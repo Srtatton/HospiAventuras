@@ -21,4 +21,5 @@ El sistema tiene como objetivo modernizar la infraestructura tecnológica de la 
   - Correo electrónico: [tanesmon@gmail.com](mailto:tanesmon@gmail.com)
 
 - **[Juan Andres Ospina Gallego]**
+  - GitHub: [https://github.com/Cualossss](https://github.com/Cualossss)
   - Correo electrónico: [juan.ospina2005@gmail.com](mailto:juan.ospina2005@gmail.com)
