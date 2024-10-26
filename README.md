@@ -21,3 +21,4 @@ Para instalar y ejecutar el proyecto en un entorno local, sigue estos pasos:
 1. **Clonar el repositorio**:
    ```bash
    git clone https://github.com/Srtatton/HospiAventuras.git
+   cd HospiAventuras
