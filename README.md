@@ -1,4 +1,5 @@
 # Sistema de Gestión de Reservas y Productos para Hoteles
+# HospiAventuras
 
 ## Descripción
 
@@ -19,4 +20,4 @@ Para instalar y ejecutar el proyecto en un entorno local, sigue estos pasos:
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tuusuario/sistema-gestion-hotel.git
+   git clone https://github.com/Srtatton/HospiAventuras.git
