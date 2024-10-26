@@ -24,3 +24,12 @@ Para instalar y ejecutar el proyecto en un entorno local, sigue estos pasos:
 2. **Buscar el repositorio**:
    ```bash
    cd HospiAventuras
+
+## Autores
+
+- **[Santiago Escobar]**
+  - GitHub: [https://github.com/Srtatton](https://github.com/Srtatton)
+  - Correo electrónico: [tanesmon@gmail.com](mailto:tanesmon@gmail.com)
+
+- **[Juan Andres Ospina Gallego]**
+  - Correo electrónico: [juan.ospina2005@gmail.com](mailto:juan.ospina2005@gmail.com)
