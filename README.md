@@ -1,4 +1,4 @@
-# Sistema de Gestión de Reservas y Productos para Hoteles
+# Sistema de Gestión de Reservas y Productos para Hostelerías en Medellín
 # HospiAventuras
 
 ## Descripción
